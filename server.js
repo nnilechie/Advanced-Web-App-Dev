@@ -6,7 +6,7 @@
 * 
 *  Name: Nicholas Nwanua Ilechie Student ID: 153461223 Date: Jul 20 2024
 *
-*  Online (Vercel) Link: https://college-data-manager-web-app.vercel.app/
+*  Online (Vercel) Link: 
 *
 ********************************************************************************/ 
 
